@@ -1,9 +1,9 @@
-package Homework11;
+package homework11;
 
 public class Author {
-String surname ;
-        String  name;
-    String patronymic;
+    private String surname ;
+    private String  name;
+    private String patronymic;
     public Author (String surname ,String name,String patronymic){
         this.name=name;
         this.surname =surname;
