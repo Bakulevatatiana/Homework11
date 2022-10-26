@@ -17,6 +17,9 @@ public class Main {
         tryTovarihsay.setPublicationYear(2013);
         System.out.println("book2.PublicationYear= "+tryTovarihsay.getPublicationYear());
         System.out.println(tryTovarihsay.getName()+" "+tryTovarihsay.getAuthor()+ " " +tryTovarihsay.getPublicationYear());
+        System.out.println(tryTovarihsay);
+        System.out.println(voynaUMir);
+
 
 
 
